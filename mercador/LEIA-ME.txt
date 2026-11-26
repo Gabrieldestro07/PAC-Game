@@ -1,0 +1,7 @@
+Godot 4.6
+Copie a pasta mercador para o projeto.
+Crie um AnimatedSprite2D e um SpriteFrames.
+Crie idle e sell, adicionando o PNG correspondente a cada animacao.
+Use Texture Filter: Nearest.
+Cada imagem tem 1086 x 724 pixels.
+Ao vender, execute play("sell") e depois retorne a idle por codigo.

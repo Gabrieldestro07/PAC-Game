@@ -1,0 +1,2 @@
+Godot 4.6
+Copie a pasta mapa para res://. Adicione um Sprite2D e use mapa.png como Texture. Em Texture > Filter, escolha Nearest. Adicione o mercador separadamente. O mapa é uma imagem única, sem colisões. Ajuste a altura do personagem e os limites de movimento; o píer aparece ligeiramente acima da grama.

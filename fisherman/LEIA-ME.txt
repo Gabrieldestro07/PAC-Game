@@ -1,0 +1,7 @@
+Godot 4.6
+Extraia a pasta fisherman na raiz do projeto (ao lado de project.godot).
+Adicione AnimatedSprite2D e arraste fisherman_frames.tres para Sprite Frames.
+Em Texture > Filter, selecione Nearest. Escolha a animação e clique Play.
+Cada quadro tem 128x96 pixels, com alfa binário. As folhas em sheets têm uma linha de quadros.
+As animações de pesca para esquerda são espelhadas; para manter a posição do corpo, ajuste offset X em -43 pixels nessas animações (e na caminhada esquerda se necessário).
+A linha de pesca é ilustrativa; para física e distância variável, use Line2D separado.

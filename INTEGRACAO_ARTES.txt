@@ -1,0 +1,1 @@
+Artes integradas sem alterar regras. Comum azul, incomum verde, raro dourado; vermelho e mistico decorativos. Bota aparece visualmente na falha, sem ocupar inventario. Vara incluida nos quadros de pesca. Mapa adaptado aos limites originais. Godot 4.6 nao executado neste ambiente.
